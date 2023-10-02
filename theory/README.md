@@ -1,1 +1,1 @@
-# Practice directory
+# Theory directory
